@@ -1,0 +1,10 @@
+2022-01-24 20:07:44,483 INFO Element is sucessfully sorted in decending order and sorted list is : [9, 9, 6, 4, 3, 1]
+2022-01-24 20:08:24,031 INFO Element is sucessfully sorted in decending order and sorted list is : [9, 9, 6, 4, 3, 1]
+2022-01-25 16:50:22,919 INFO Element is sucessfully sorted in decending order and sorted list is : [9, 9, 6, 4, 3, 1]
+2022-01-25 17:22:32,944 INFO The given input: [9, 3, 6, 4, 9, 1] is a list 
+2022-01-25 17:22:32,945 INFO Element 4 not found in the list 
+2022-01-25 17:22:32,945 INFO Element 4 not found in the list 
+2022-01-25 17:22:32,951 INFO Element 4 not found in the list 
+2022-01-25 17:22:32,951 INFO Element 4 found at index: 3 
+2022-01-25 17:25:57,840 INFO The given input: [9, 3, 6, 4, 9, 1] is a list 
+2022-01-25 17:25:57,841 INFO Element 4 found at index: 3 
